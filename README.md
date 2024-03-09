@@ -5,6 +5,7 @@ This project helps manage courses on Airtribe, an online learning platform. It l
 
 # Database Design
 ➡Instructors have profiles.
+
 ➡Instructors can start many courses.
 ➡Learners can sign up for courses.
 ➡Instructors can comment on learner sign-ups.
