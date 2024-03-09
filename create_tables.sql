@@ -2,6 +2,7 @@ CREATE TABLE IF NOT EXISTS Instructors (
     instructor_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
     email VARCHAR(100),
+    expertise_area VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS Courses (
