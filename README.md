@@ -2,6 +2,8 @@
 This project helps manage courses on Airtribe, an online learning platform. It lets instructors create courses, learners sign up for them, and instructors communicate with learners through comments.
 
 # Database Design
+![image](https://github.com/p-pranay-kumar/Airtribe-Internship-Assignment-Backend/assets/100279756/97fbe7fd-2af1-446d-a131-bd9c4b4555c8)
+
 ➡Instructors have profiles.
 
 ➡Instructors can start many courses.
