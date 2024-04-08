@@ -1,4 +1,4 @@
-## Airtribe Course Management System
+## Educational Course Management System
 This project helps manage courses on Airtribe, an online learning platform. It lets instructors create courses, learners sign up for them, and instructors communicate with learners through comments.
 
 # Database Design
